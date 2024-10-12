@@ -17,7 +17,8 @@
       "profile": "https://techandgeneral.com",
       "contributions": [
         "code",
-        "doc"
+        "doc",
+        "bug"
       ]
     }
   ],
