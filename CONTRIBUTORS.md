@@ -13,7 +13,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://techandgeneral.com"><img src="https://avatars.githubusercontent.com/u/112326970?v=4?s=100" width="100px;" alt="Alex Nyambura"/><br /><sub><b>Alex Nyambura</b></sub></a><br /><a href="https://github.com/GDSC-UoEm/public-apis/commits?author=lxmwaniky" title="Code">💻</a> <a href="https://github.com/GDSC-UoEm/public-apis/commits?author=lxmwaniky" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://techandgeneral.com"><img src="https://avatars.githubusercontent.com/u/112326970?v=4?s=100" width="100px;" alt="Alex Nyambura"/><br /><sub><b>Alex Nyambura</b></sub></a><br /><a href="https://github.com/GDSC-UoEm/public-apis/commits?author=lxmwaniky" title="Code">💻</a> <a href="https://github.com/GDSC-UoEm/public-apis/commits?author=lxmwaniky" title="Documentation">📖</a> <a href="https://github.com/GDSC-UoEm/public-apis/issues?q=author%3Alxmwaniky" title="Bug reports">🐛</a></td>
     </tr>
   </tbody>
   <tfoot>
