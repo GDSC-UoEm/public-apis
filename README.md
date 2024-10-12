@@ -1,7 +1,4 @@
 # Public APIs Collection
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This repository is a curated list of free, open public APIs across various categories. The goal is to provide developers with a centralized resource to discover and explore APIs for their projects.
 
@@ -32,6 +29,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 ## Contributors ✨
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
